@@ -41,6 +41,8 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 4. Update the README.md with your specific setup instructions
 
 ## Resources
+## How to run the scripts
+This program enables one to perform basic and adverse queries on plp-bookstore database. The database has a collection called 'books' that contain 11 documents. The database has been developed using mongoDB. Furthermore the program has a separate queries.js file that contain code for performing basic and advanced queries to manipulate the data. The run the queries.js script you need to populate your database with the documents in insert.books.js. Next, you can use mongoDB queries commands contained in queries.js to manipulate the data.
 
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [MongoDB University](https://university.mongodb.com/)
